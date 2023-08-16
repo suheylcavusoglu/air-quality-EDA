@@ -20,6 +20,3 @@ The data set was obtained from the following internet address:
 ## Air Quality Index Calculation
 
 - After various statistical analyzes and manipulations on this data set, AQI values were calculated for the Kocaeli station.
-- For more detailed information, the codes below can be examined.
-
-**Author: Süheyl Çavuşoğlu**
