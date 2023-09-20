@@ -20,3 +20,7 @@ The data set was obtained from the following internet address:
 ## Air Quality Index Calculation
 
 - After various statistical analyzes and manipulations on this data set, AQI values were calculated for the Kocaeli station.
+
+## Comparison of AQI Values in Different Periods
+
+- In the notebook named AQI_in_different_periods.ipynb, AQI values in different periods were compared, their statistical significance was examined and, effect sizes were determined.
